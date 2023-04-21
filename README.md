@@ -1,4 +1,9 @@
-### Hi there 👋
+# Ayumi Sakiyama - Data Analyst Portfolio
+
+## About
+
+I'm an experienced marketing professional currently residing in Renton, WA looking to transition into the analytics field. For the first few years out of college, I taught English to 3-6th graders in Korea, tutored kids with disabilities, and worked in a clinic for children with autism. During that time I developed an interest in research and pivoted my career to marketing where I was able to harness my skills in conducting market research for my employer. 
+
 
 <!--
 **yumisaki/yumisaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
